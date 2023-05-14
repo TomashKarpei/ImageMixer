@@ -1,2 +1,2 @@
 # Images mixer
-Programm which connects 2 images into 1.
+Programm which mixes 2 images into 1.
